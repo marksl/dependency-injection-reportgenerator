@@ -1,0 +1,8 @@
+*.suo
+_resharper.*
+WithoutDI-1-Before/DatabaseConnector/bin
+WithoutDI-1-Before/DatabaseConnector/obj
+Program1/DatabaseConnector/bin
+Program1/DatabaseConnector/obj
+ReportGenerator/DatabaseConnector/bin
+ReportGenerator/DatabaseConnector/obj
